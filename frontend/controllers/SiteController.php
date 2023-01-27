@@ -294,22 +294,3 @@ class SiteController extends Controller
         ]);
     }
 }
-//<script type="module">
-//    // Import the functions you need from the SDKs you need
-//    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js";
-//  // TODO: Add SDKs for Firebase products that you want to use
-//  // https://firebase.google.com/docs/web/setup#available-libraries
-//
-//  // Your web app's Firebase configuration
-//  const firebaseConfig = {
-//    apiKey: "AIzaSyAwO96S0a2zhzFlQQuwz_y086bJrVTV8HY",
-//    authDomain: "chat-cbaef.firebaseapp.com",
-//    projectId: "chat-cbaef",
-//    storageBucket: "chat-cbaef.appspot.com",
-//    messagingSenderId: "786319160122",
-//    appId: "1:786319160122:web:adc5dd2cb44c6d0e4d9603"
-//  };
-//
-//  // Initialize Firebase
-//  const app = initializeApp(firebaseConfig);
-//</script>
